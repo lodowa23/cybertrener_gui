@@ -34,7 +34,6 @@
 #menuButton {
     -fx-background-color: transparent;
     -fx-cursor: hand;
-    -fx-padding: 15;
 }
 
 #menuButton:hover {
